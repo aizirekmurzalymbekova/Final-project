@@ -1,0 +1,264 @@
+{
+  "products": [
+    {
+      "category": "Дизайн интерьера",
+      "name": "Интерьер роскошного частного дома",
+      "style": "Классика",
+      "year": "2020 год",
+      "description": "Стиль интерьера этой виллы, атмосфера роскоши и американского отношения к дизайну чувствуется сразу.  Именно такую цель ставила перед собой наша команда – создать интерьер  в духе американского современного стиля. Именно таким этот дом видел хозяин виллы, который сам  живет в США и глубоко проникся особенностями дизайна по-американски. В основу пространства легла концепция  внутренней открытости – минимум стен, максимум света и воздуха, отсутствие лишних деталей, спокойная гамма без ярких акцентов, строго выверенное предметное наполнение и натуральные материалы. Атриум, парящая лестница, перилла из закаленного стекла – все это сразу задает нужный тон, нужную атмосферу. Перед вами дом, полный света!",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/sliders/4ec105685b4e945f0ffa07731a0e0ab9.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/4a23fb95699a18d78e81ff69c740338e.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/8db2bd985c76b7f398ce1be814c3b514.jpg",
+        "https://www.neostyle.kg/storage/portfolio/1b673223d089d389f5d023389f786299.jpg"
+      ],
+      "square": "300 м2",
+      "id": 3
+    },
+    {
+      "category": "Дизайн интерьера",
+      "name": "Шикарный дом на окраине города",
+      "style": "Классика",
+      "year": "2020 год",
+      "description": "Такой шикарный дом продуман в деталях. По всему первому этажу идет пояс из золотой мозайки. Лестница тоже была продумана так, как ее видел наш заказчик. Ступеньки из дерева, перила из ковки. Все создало гармонию и шикарную классику.",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/sliders/45521c4b4ce3f5eb886f3c75163fcb36.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/d41d1236e1ed779ec0e80550fbb62ade.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/2d3f0c439dd5ab4e6c673e61ff4ff820.jpg",
+        "https://www.neostyle.kg/storage/portfolio/33207b804114e0aaa59f0e4ced24bf4c.jpg"
+      ],
+      "square": "750 м2",
+      "id": 4
+    },
+    {
+      "category": "Дизайн интерьера",
+      "name": "Дизайн ресто-бара «FOGO»",
+      "style": "Лофт",
+      "year": "2016 год",
+      "description": "Нашей главной задачей при проектировании было кардинально преобразить первоначальный облик этого заведения. Раньше это помещение представляло собой обыкновенное незапоминающееся кафе. Была задача создать комфортную и расслабляющую атмосферу. Этой цели удалось достичь при помощи темного потолка и направленного освещения. Главной фишкой зала является настоящая дровяная печь. Задумывалось, что гости смогут скоротать время ожидания, наблюдая за процессом приготовления. В оформлении зала использовались различные элементы характерные для стиля лофт: Кирпичная кладка, Металлическая сетка, Грубая фактура бетона",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/1548749ae67123540a07e1904eefb85c.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/9740c39ff552dc498b4a1a0c031493f7.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/9b9716f1219c97dd6b00397baf4a132f.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/9a67b894fb23b42a4f84cf8578ddf943.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/5ed8ec885f29f7fd0c5d83926b978580.jpg"
+      ],
+      "square": "750 м2",
+      "id": 5
+    },
+    {
+      "category": "Дизайн интерьера",
+      "name": "Цвет 32",
+      "style": "Лофт",
+      "year": "2017 год",
+      "description": "С помощью множества подборов и перестановок идей, решений, материалов и оттенков, мы сумели добиться результата, который полностью устроил хозяев квартиры и нас. Мы совместили традиционные, более классические материалы с современными, что сделало интерьер насыщенным, контрастным и фундаментальным. Кухонная мебель была почти целиком спроектирована из нержавейки, что позволило выдержать стиль профессиональных кухонь ресторанов, при этом полностью сохранив эстетику и функциональность. Кабинет получился со своей собственной, особенной атмосферой, наполненной концентрацией, спокойствием и лишенной лишних деталей.",
+      "image": [
+        "https://static.tildacdn.com/tild3763-3665-4466-b237-303030336364/image.png",
+        "https://static.tildacdn.com/tild6564-6237-4464-a338-336536643632/image.png",
+        "https://static.tildacdn.com/tild6661-3137-4338-b838-393035383335/image.png",
+        "https://static.tildacdn.com/tild3831-3765-4533-a131-376337343433/image.png",
+        "https://static.tildacdn.com/tild3236-6561-4430-b262-643534396532/image.png"
+      ],
+      "square": "200 м2",
+      "id": 6
+    },
+    {
+      "category": "Дизайн интерьера",
+      "name": "The MID",
+      "style": "Минимализм",
+      "year": "2019 год",
+      "description": "В проекте «The МИД» природа — главный идейный вдохновитель. Знаете это чувство, когда находишься за городом, в лесу, прикасаешься к ветвям деревьев и ощущаешь всю мощь «великанов природы»? Теперь представьте, что частичка природы у вас дома.",
+      "image": [
+        "https://static.tildacdn.com/tild3638-6364-4030-a334-396664313565/living_06.jpg",
+        "https://static.tildacdn.com/tild3633-3466-4336-b162-353361393462/living_04.jpg",
+        "https://static.tildacdn.com/tild3938-3936-4539-b938-306136626535/living_01.jpg",
+        "https://static.tildacdn.com/tild3366-3835-4133-b162-373631623161/image.png",
+        "https://static.tildacdn.com/tild6131-3066-4436-a338-333636613431/image.png",
+        "https://static.tildacdn.com/tild3262-3130-4364-a561-376337646439/image.png"
+      ],
+      "square": "80 м2",
+      "id": 7
+    },
+    {
+      "category": "Дизайн интерьера",
+      "name": "Небо",
+      "style": "Минимализм",
+      "year": "2015 год",
+      "description": "Попадая в холл, мы видим полированный глянцевый пол из керамогранита в сочетании медового оттенка паркета. Стены декорированы картами из полиуретана подчеркивая выдержанный стиль и элегантность современной классики. В гостиной, наш дизайнер грамотно создал зоны для работы отдыха и приема гостей. Каждая деталь в интерьере подчеркивает статус хозяина и не чего не отвлекает во время просмотра любимого фильма. Главным условием клиента - это не выходить за рамки бюджета и сохранить эксклюзивность материалов в интерьере. Чтобы нарисовать тот же кафель, мы посмотрели более пяти магазинов города и выбрали наиболее подходящую коллекцию.",
+      "image": [
+        "https://static.tildacdn.com/tild3337-6463-4530-a234-306632363961/02.jpg",
+        "https://static.tildacdn.com/tild3639-3935-4336-b164-333535346533/03.jpg",
+        "https://static.tildacdn.com/tild3362-3833-4738-b237-343739316432/07.jpg",
+        "https://static.tildacdn.com/tild6530-3662-4465-b039-623737306538/12.jpg",
+        "https://static.tildacdn.com/tild3939-3430-4237-b161-383962383936/17.jpg",
+        "https://static.tildacdn.com/tild3939-6630-4264-b035-313433653964/32.jpg"
+      ],
+      "square": "180 м2",
+      "id": 8
+    },
+    {
+      "category": "Дизайн интерьера",
+      "name": "Неоклассическая квартира",
+      "style": "Неоклассика",
+      "year": "2015 год",
+      "description": "Такой красивый дизайн получился у нас в этой квартире. Мы объединяли разные зоны в каждой комнате. Как можете заметить и в кухне и в гостиной.",
+      "image": "https://www.neostyle.kg/storage/portfolio/sliders/c63ace33c643384814dc9c229d44c06c.jpg",
+      "square": "180 м2",
+      "id": 9
+    },
+    {
+      "category": "Дизайн интерьера",
+      "name": "Дизайн 3-х комнатной квартиры в новом доме",
+      "style": "Неоклассика",
+      "year": "2015 год",
+      "description": "Такой красивый дизайн получился у нас в этой квартире. Мы объединяли разные зоны в каждой комнате. Как можете заметить и в кухне и в гостиной.",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/sliders/fc62ee717a8ee33fc9d097cea2f878a1.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/625723d69adde1e82e662437528662bf.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/68945adad72893a40ebafe631e98d372.jpg",
+        "https://www.neostyle.kg/storage/portfolio/11ca0bce244be0bd1f50f8c66747e241.jpg"
+      ],
+      "square": "195 м2",
+      "id": 10
+    },
+    {
+      "category": "Архитектурное проектирование",
+      "name": "Проект современного дома",
+      "style": "Современный",
+      "year": "2015 год",
+      "description": "",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/sliders/093f5c0170ad8aec60d1e01e6e7b1514.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/ea267f56483cead1c93836afdb5e2704.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/cde9c43a39bb0531096a5231c30582ba.jpg"
+      ],
+      "square": "295 м2",
+      "id": 11
+    },
+    {
+      "category": "Архитектурное проектирование",
+      "name": "Жилой дом в современном стиле",
+      "style": "Неоклассика",
+      "year": "2019 год",
+      "description": "",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/20f80684c0ddf095b7acb0e904f76030.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/2ab8d3c51aa8adf906cc0c6491e17e4c.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/ab756d4603eca6e269836b834cc6e534.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/0999077d5e7c035531fdb835436781e6.jpg"
+      ],
+      "square": "300 м2",
+      "id": 12
+    },
+    {
+      "category": "Архитектурное проектирование",
+      "name": "Роскошный особняк",
+      "style": "Классика",
+      "year": "2019 год",
+      "description": "",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/sliders/53e7b2d3d5f18246c6524bb5764c5769.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/0999077d5e7c035531fdb835436781e6.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/6c52b9ed276f8a87aed0596d8284b009.jpg"
+      ],
+      "square": "300 м2",
+      "id": 13
+    },
+    {
+      "category": "Архитектурное проектирование",
+      "name": "Стиль Лофт",
+      "style": "Лофт",
+      "year": "2019 год",
+      "description": "",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/9e68081960cb71a0630aba93715a76b5.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/e838a6b799610adf9cbcc695bcfb492a.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/3478348c18584afb76cdd379b0098e42.jpg"
+      ],
+      "square": "150 м2",
+      "id": 14
+    },
+    {
+      "category": "Архитектурное проектирование",
+      "name": "Современный частный домик",
+      "style": "Минимализм",
+      "year": "2019 год",
+      "description": "",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/59f86c8064742d5b2a064324a03fb67e.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/0593f9138d6f61b73e6cd72555b8f5ef.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/51190fd1421fba3a2d350e0da0fcd540.jpg"
+      ],
+      "square": "150 м2",
+      "id": 15
+    },
+    {
+      "category": "Ландшафтный дизайн",
+      "name": "",
+      "style": "",
+      "year": "2019 год",
+      "description": "",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/sliders/00419a38aca923964d8e7bd452d2fd2c.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/e8b3498d07f2e89dc357f1b69370c8b7.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/685b8092471b76158a7afbfc1e08d362.jpg"
+      ],
+      "square": "",
+      "id": 16
+    },
+    {
+      "category": "Ландшафтный дизайн",
+      "name": "",
+      "style": "",
+      "year": "2015 год",
+      "description": "",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/sliders/87b7600a176a5a083f93c7265e5a05f2.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/7eed8c97e66c6f48c9a2157c1751ea62.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/b0c3a77c80427d9026ef397dcededaf0.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/de1750950c8bf822ba192d6cb973bb6f.jpg"
+      ],
+      "square": "",
+      "id": 17
+    },
+    {
+      "category": "Ландшафтный дизайн",
+      "name": "",
+      "style": "",
+      "year": "2018 год",
+      "description": "",
+      "image": [
+        "https://www.neostyle.kg/storage/portfolio/room/f64606d28341f7e7d715b931ce8db158.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/5dd568e261430c218177e97fe2d40017.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/380aae2cfab9af5876466b0747b7e0bd.jpg",
+        "https://www.neostyle.kg/storage/portfolio/sliders/1de31fe8c8f92728f68f91e27c61896e.jpg"
+      ],
+      "square": "",
+      "id": 18
+    }
+  ],
+  "feedbacks": [],
+  "services": [
+    {
+      "tariff": "Базовый тариф",
+      "price": "10",
+      "id": 1
+    },
+    {
+      "tariff": "Мультилайт тариф",
+      "price": "7",
+      "id": 2
+    },
+    {
+      "tariff": "Экспресс тариф",
+      "price": "5",
+      "id": 3
+    },
+    {
+      "tariff": "Вип тариф",
+      "price": "12",
+      "id": 4
+    }
+  ],
+  "form": []
+}

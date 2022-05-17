@@ -1,0 +1,12 @@
+.card-services svg {
+  margin-left: 200px;
+}
+.card-services span {
+  font-family: "David Libre", serif;
+  font-size: 18px;
+}
+
+.card-services {
+  margin-bottom: 20px;
+  width: 300px;
+}

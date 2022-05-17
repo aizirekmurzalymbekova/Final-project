@@ -1,0 +1,23 @@
+.appbar a {
+  text-decoration: none;
+}
+
+.appbar button {
+  font-family: "David Libre", serif;
+}
+
+@media all and (max-width: 768px) {
+  .appbar a {
+    height: 50px;
+  }
+  .appbar button {
+    margin: 0;
+    font-size: 12px;
+  }
+  .navbar {
+    padding: 0;
+  }
+  .box a {
+    margin-right: 0px;
+  }
+}

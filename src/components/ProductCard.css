@@ -1,0 +1,41 @@
+* {
+  font-family: "David Libre", serif;
+}
+
+.cardheader {
+  position: absolute;
+  z-index: 10;
+}
+.product-card-image {
+  position: relative;
+  opacity: 0.9;
+}
+
+.card a {
+  font-family: "David Libre", serif;
+  color: rgb(50, 48, 48);
+}
+
+.cardaction {
+  background-color: rgb(223, 223, 223);
+}
+
+.product-card-image:hover {
+  opacity: 0.6;
+}
+
+.card a:hover {
+  color: black;
+}
+
+@media all and (max-width: 425px) {
+  .product-card-image image {
+    height: 200px;
+  }
+  .cardaction {
+    height: 20px;
+  }
+  .cardaction svg {
+    width: 15px;
+  }
+}

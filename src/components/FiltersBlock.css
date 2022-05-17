@@ -1,0 +1,62 @@
+.filters-block input {
+  outline: none;
+  background-color: white;
+  border-color: beige;
+  height: 40px;
+  border-radius: 20px;
+  padding-left: 15px;
+}
+
+input::placeholder {
+  font-size: 18px;
+}
+
+.filters-block button {
+  font-size: 20px;
+  background-color: white;
+  border-radius: 20px;
+  width: 200px;
+  color: rgb(95, 89, 89);
+  border-color: azure;
+  margin-bottom: 50px;
+}
+
+.filters-block div {
+  margin: 20px 0px;
+}
+
+select {
+  border-radius: 20px;
+  height: 30px;
+  width: 250px;
+  padding-left: 15px;
+  color: rgb(95, 89, 89);
+}
+
+@media all and (max-width: 425px) {
+  .filters-block input {
+    height: 25px;
+    padding-left: 10px;
+  }
+
+  input::placeholder {
+    font-size: 12px;
+  }
+
+  .filters-block button {
+    font-size: 12px;
+    border-radius: 20px;
+    width: 100px;
+    margin-bottom: 30px;
+  }
+
+  .filters-block div {
+    margin: 20px 0px;
+  }
+  select {
+    height: 30px;
+    width: 160px;
+    padding-left: 10px;
+    font-size: 12px;
+  }
+}

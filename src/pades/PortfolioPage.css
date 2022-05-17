@@ -1,0 +1,27 @@
+.products-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 10px;
+  column-gap: 0px;
+}
+
+.products-list span {
+  font-family: "David Libre", serif;
+}
+
+@media all and (max-width: 768px) {
+  .products-list span {
+    font-size: 16px;
+  }
+}
+@media all and (max-width: 425px) {
+  .products-list img {
+    height: 200px;
+  }
+  div h1 {
+    font-size: 28px;
+  }
+  .products-list span {
+    font-size: 10px;
+  }
+}
